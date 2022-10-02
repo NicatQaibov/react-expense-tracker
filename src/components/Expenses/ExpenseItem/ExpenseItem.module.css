@@ -1,0 +1,6 @@
+.expense-item {
+  background-color: #413f42;
+
+  display: flex;
+  align-items: center;
+}

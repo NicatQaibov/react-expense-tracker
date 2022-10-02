@@ -1,0 +1,11 @@
+.new-expense {
+  background-color: #583dab;
+  margin-bottom: 2rem;
+}
+
+.btn--add-new-expense {
+  display: block;
+  margin: auto;
+  background-color: #362568;
+  margin-block: 1rem;
+}
